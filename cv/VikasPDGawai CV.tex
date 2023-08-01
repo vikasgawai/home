@@ -25,7 +25,14 @@
 \documentclass{resume} % Use the custom resume.cls style
 
 \pagestyle{plain} 
-%\usepackage{lmodern}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\rfoot{Page \thepage \hspace{1pt} of \pageref{LastPage}}%\usepackage{lmodern}
 \usepackage[left=0.57in,top=0.3in,right=0.57in,bottom=0.3in]{geometry} % Document margins
 \usepackage{hyperref}
 \usepackage{comment}
@@ -100,15 +107,29 @@ Health, Aging, Social Security, Public Policy, Human Capital, Caste (Race), Gend
 
 
 \begin{rSection}{Job Market Paper}
-- Does Exposure to Broadband Technology Affects the Mental Health of Older Adults? \textit{(draft coming soon)} \textit{\tiny{(Presentation - MEA, American University, SEA, UW-Madison)}}
+\begin{itemize}
+\item Does High-Speed Internet (Broadband) Technology Affects the Mental Health of Older Adults? \textit{\scriptsize{(Presentation - Midwest Economics Association (MEA) -'23, American University-'23, Southern Economics Association (SEA)-'23, Association for Public Policy Analysis \& Management (APPAM) -'23)}}
+\end{itemize}
+\\
+\textbf{Abstract-} 
+Recent evidence from the economics literature highlights the detrimental impact of social media technology on the mental health of college students, primarily attributed to unfavorable \textit{social comparisons}. This paper examines the effect of a similar technology, high-speed internet broadband, on the mental health of older adults (aged 50+) in the United States. Leveraging the quasi-experimental staggered rollout of high-speed broadband at the census tract level from 2010 to 2018, combined with individual panel data, I utilize spatial, temporal, and individual-level variations in broadband availability and employ the latest difference-in-differences (DID) estimator.
+I find that the introduction of high-speed broadband improves mental health (decline in depression symptoms) among older adults, primarily due to improvement in \textit{social connectedness}.
+These contrasting findings for younger and older cohorts emphasize that the impact of similar technologies can differ significantly based on age and how the technology is being used.
+The positive effects are driven by Whites, with no effects on African-Americans.
+However, I find a larger positive effect on mental health in rural areas and modestly higher estimates for women. 
+I find an inverted U shape of the positive effects concentrated among the 65 to 85 age groups.
+The paper also uncovers other unexplored mechanisms, such as decreased social isolation, improved health literacy and cognition, and improved technological efficiency in nearby hospitals that might account for the observed positive effects on mental health. These results carry significant policy implications for broadband availability policies and emphasize the potential benefits for the mental health of older adults.
+
+
 \end{rSection}
 
 
 
 \begin{rSection}{Working Papers}
-- Discrimination in Science: Salaries of Foreign and US Born Land-Grant University Scientists  \textit{with Jeremy Foltz}
- \textbf{(Revise and Resubmit)} \textit{\tiny{(Presentation - AAEA, UW-Madison)}}\\
-\textbf{Abstract-} 
+\begin{itemize}
+\item Discrimination in Science: Salaries of Foreign and US Born Land-Grant University Scientists  \textit{with Jeremy Foltz}
+ \textbf{(Revise and Resubmit)} \textit{\scriptsize{(Presentation - Agriculture and Applied Economics (AAEA)-'22)}}
+\iffalse\textbf{Abstract-} 
 The dominance of the US innovation and academic system relies heavily on foreign-born labor for its success.
 Recent literature has shown evidence of wage gaps in academia based on gender and race; however, little is known about whether a wage gap might exist for foreign-born faculty.
 This paper studies the wage gap between the US and foreign-born agricultural and life science faculty at 52 US Land Grant Universities (LGU) using a survey of over 1,400 scientists conducted in 2005 and 2015.
@@ -117,10 +138,10 @@ We find that among the tenure-track faculty, foreign-born earn about 4\% or \$5,
 The decomposition analysis suggests that about one-third of the wage gap is due to direct discrimination, and about two-thirds is due to various types of systemic discrimination.
 Using our framework, we then rule in and rule out some important types of systemic discrimination.
 Estimates from this paper are crucial for understanding potential policies that could improve diversity, equity, and inclusion in US academia.
+\fi
 
-
--Early-Life Economic Conditions and Old-Age Mortality: Evidence from Historical County-Level Bank Deposit Data, \textit{with Valentina Duque, Jason Fletcher, Hamid Noghanibehambari, Lauren Schmitz}- \textbf{(under review)} \\
-\textbf{Abstract-}
+\item Early-Life Economic Conditions and Old-Age Mortality: Evidence from Historical County-Level Bank Deposit Data, \textit{with Valentina Duque, Jason Fletcher, Hamid Noghanibehambari, Lauren Schmitz}- \textbf{(Under Review)}
+\iffalse \textbf{Abstract-}
 This paper studies the long-run mortality effects of in-utero and early-life economic conditions. We examine
 how local economic conditions experienced in the Great Depression, proxied by county-level banking
 deposits during in-utero and first years of life, can influence old-age longevity. We find that a one-standard-deviation rise in per capita bank deposits is associated with an approximately 2.8 months increase in
@@ -129,9 +150,17 @@ a wide array of specification checks. Additional analyses comparing state-level 
 economic measures provide insight into the importance of controlling for local-level confounders and
 exploiting more granular measures in exploring the relationship between early-life conditions and later-life
 mortality.
+\fi
 
+\item The Effect of Early Life Exposures to the Green Revolution (agricultural technology) on later life Aging Outcomes \textit{with Valentina Duque, Jinkook, Lee, Lauren Schmitz} (\textit{\scriptsize{presented at APPAM}}) 
 
--Spillover Effects of a Bicycle Policy on Girls' Enrollment in Middle Schools \textit{(Award under Best Paper Scholarship, Dept. of Economics, UW-Madison, 2018) }
+\item The effect of Broadband Technology on Social Security Disability Insurance Enrollment \textit{\scriptsize{(Competitive award from Retirement and Disability Research Center (\textbf{RDRC}) Center for Financial Security (CFS), Social Security Administration (\textbf{SSA}))}}
+
+\item Spillover Effects of a Bicycle Policy on Girls' Enrollment in Middle Schools \textit{\scriptsize{(Recognition under Best Paper Scholarship (Honorable mention), Dept. of Economics, UW-Madison, 2018) }}
+
+\item The Effect of Teacher Hiring Policy on Student Test Scores: A Multiple Regression Discontinuity Design \textit{\scriptsize{(selected at American Education Finance and Policy)}} \\
+\end{itemize}
+
 %{\bf Productive cattle ranches reduce carbon emissions in the Brazilian Amazon} 
 %\textit{with M.E. Skidmore, L. Rausch, and H.K. Gibbs \textit{(under review)}.}   
 
@@ -145,10 +174,9 @@ mortality.
 
 \begin{rSection}{Selected Works in Progress}
 
-- The Effect of Early Life Exposures to the Green Revolution on Aging Outcomes \textit{with Valentina Duque, Jinkook, Lee, Lauren Schmitz} (\textit{presented at APPAM}) \\ \\
-- The Intergenerational Effect of Early Life Exposures to the Green Revolution on Human Capital \textit{with Valentina Duque, Lauren Schmitz} (\textit{presented at PAA}) \\ \\
 
-%-Effect of Class Size on Student's Test Score: A Multiple Regression Discontinuity Approach (\textit{selected at American Education Finance and Policy}) \\
+- The Intergenerational Effect of Early Life Exposures to the Green Revolution on Human Capital \textit{with Valentina Duque, Lauren Schmitz} \textit{\scriptsize{(presented at PAA})} \\ \\
+
 %-Effect of Food Stamp Programs on Occupational Mobility in the US
 \end{rSection}
 
@@ -162,7 +190,7 @@ mortality.
 -Diversity Fellow, School of Public Affairs, American University \hfill \textit{2023-} \\
 -Research Fellow, Retirement and Disability Research Center (\textbf{RDRC}) Center for Financial Security (CFS), Social Security Administration (\textbf{SSA})  \hfill \textit{2022-} \\
 -American Society of Health Economics (ASHEcon) \textbf{DEI- Diversity Scholarship} \hfill \textit{2021} \\
--Dept. of Economics, UW Madison \textbf{Recognition under `Best Research Paper Scholarship'}- \hfill \textit{2018}
+-Dept. of Economics, UW Madison \textbf{Recognition under `Best Research Paper Scholarship (Honorable mention)'}- \hfill \textit{2018}
  %UW-Madison Sexual Violence Research Initiative%, Research Affiliate 
 %\hfill \textit{2020--}\\
 %Gibbs Land Use and the Environment Lab%, Faculty Affiliate 
