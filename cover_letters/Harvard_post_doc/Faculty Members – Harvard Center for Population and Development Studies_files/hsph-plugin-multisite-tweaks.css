@@ -1,0 +1,29 @@
+#menu-site .wp-submenu li:last-child {
+  display: none; }
+
+#wp-admin-bar-hsph-it-wp-help-button a.ab-item,
+#wp-admin-bar-hsph-it-wp-documentation-button a.ab-item {
+  background-color: #15171a; }
+
+#wp-admin-bar-hsph-it-wp-help-button .ab-icon,
+#wp-admin-bar-hsph-it-wp-documentation-button .ab-icon {
+  top: 2px; }
+
+#wp-admin-bar-hsph-it-wp-help-button .ab-icon::before,
+#wp-admin-bar-hsph-it-wp-documentation-button .ab-icon::before {
+  color: #d99aa3; }
+
+/* Remove/hide admin spams/notices - WP-1907 */
+/* Gravity forms */
+.wp-admin #gf_dashboard_message,
+/* Jetpack */
+.wp-admin .jitm-card.jitm-banner,
+.wp-admin .jp-connection-banner,
+/* Disable comment */
+.wp-admin .notice.disable__comment__alert,
+/* SVG Image */
+.wp-admin .wpsvg-notice,
+/* Modern Tribe Calendar */
+.wp-admin .tribe-dismiss-notice.tribe-notice-pue_key-upgrade_key{
+  display: none !important;
+}
