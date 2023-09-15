@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.5)  9 SEP 2023 15:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.5)  15 SEP 2023 16:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -423,29 +423,25 @@ l.114 \textbf
              {Abstract-}
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
 
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
-
- []
-
 [2] 
 AED: lastpage setting LastPage
 [3]
 
-./VikasPDGawai CV.tex:367: LaTeX Error: \begin{list} on input line 309 ended by
+./VikasPDGawai CV.tex:374: LaTeX Error: \begin{list} on input line 316 ended by
  \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.367 \end{document}
+l.374 \end{document}
                     
 ? 
 (./VikasPDGawai CV.aux)
@@ -454,17 +450,17 @@ Package rerunfilecheck Info: File `"VikasPDGawai CV".out' has not changed.
  )
 (\end occurred inside a group at level 2)
 
-### semi simple group (level 2) entered at line 309 (\begingroup)
-### semi simple group (level 1) entered at line 309 (\begingroup)
+### semi simple group (level 2) entered at line 316 (\begingroup)
+### semi simple group (level 1) entered at line 316 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
  9641 strings out of 478268
  155013 string characters out of 5846347
- 486826 words of memory out of 5000000
+ 484826 words of memory out of 5000000
  27750 multiletter control sequences out of 15000+600000
  475144 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,12n,76p,589b,413s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,11n,76p,589b,415s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm
 -super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
@@ -476,7 +472,7 @@ mti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ti8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
 10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095
 .pfb>
-Output written on "VikasPDGawai CV.pdf" (3 pages, 148786 bytes).
+Output written on "VikasPDGawai CV.pdf" (3 pages, 148688 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
