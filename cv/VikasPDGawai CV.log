@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.5)  9 AUG 2024 11:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.5)  9 AUG 2024 11:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -443,14 +443,14 @@ l.149 \textbf
 AED: lastpage setting LastPage
 [3]
 
-./VikasPDGawai CV.tex:388: LaTeX Error: \begin{list} on input line 330 ended by
+./VikasPDGawai CV.tex:389: LaTeX Error: \begin{list} on input line 331 ended by
  \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.388 \end{document}
+l.389 \end{document}
                     
 ? 
 (./VikasPDGawai CV.aux)
@@ -459,8 +459,8 @@ Package rerunfilecheck Info: File `"VikasPDGawai CV".out' has not changed.
  )
 (\end occurred inside a group at level 4)
 
-### semi simple group (level 4) entered at line 330 (\begingroup)
-### semi simple group (level 3) entered at line 330 (\begingroup)
+### semi simple group (level 4) entered at line 331 (\begingroup)
+### semi simple group (level 3) entered at line 331 (\begingroup)
 ### semi simple group (level 2) entered at line 108 (\begingroup)
 ### semi simple group (level 1) entered at line 108 (\begingroup)
 ### bottom level 
@@ -483,7 +483,7 @@ mti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ti8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
 10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095
 .pfb>
-Output written on "VikasPDGawai CV.pdf" (3 pages, 152095 bytes).
+Output written on "VikasPDGawai CV.pdf" (3 pages, 152162 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
