@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.5)  21 JAN 2024 16:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.5)  7 AUG 2024 12:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,72 +6,21 @@ entering extended mode
 **"VikasPDGawai CV.tex"
 (./VikasPDGawai CV.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24> (./resume.cls
-Document Class: resume 2010/07/10 v0.9 Resume class
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
-)
-\c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
-)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/parskip/parskip.sty
-Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
-
-(/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
-)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count193
-))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen139
-\ar@mcellbox=\box50
-\extrarowheight=\dimen140
-\NC@list=\toks17
-\extratabsurround=\skip49
-\backup@length=\skip50
-\ar@cellbox=\box51
-)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
-))
+L3 programming layer <2022-02-24> (./resume.cls)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks18
-\inpenc@posthook=\toks19
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2022/02/26 3.73 The Babel package
-\babel@savecnt=\count194
-\U@D=\dimen141
+\babel@savecnt=\count185
+\U@D=\dimen138
 \l@unhyphenated=\language87
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count195
+\bbl@dirlevel=\count186
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
@@ -85,15 +34,15 @@ Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (/usr/local/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
-\f@nch@headwidth=\skip51
-\f@nch@O@elh=\skip52
-\f@nch@O@erh=\skip53
-\f@nch@O@olh=\skip54
-\f@nch@O@orh=\skip55
-\f@nch@O@elf=\skip56
-\f@nch@O@erf=\skip57
-\f@nch@O@olf=\skip58
-\f@nch@O@orf=\skip59
+\f@nch@headwidth=\skip47
+\f@nch@O@elh=\skip48
+\f@nch@O@erh=\skip49
+\f@nch@O@olh=\skip50
+\f@nch@O@orh=\skip51
+\f@nch@O@elf=\skip52
+\f@nch@O@erf=\skip53
+\f@nch@O@olf=\skip54
+\f@nch@O@orf=\skip55
 )
 (/usr/local/texlive/2022/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
@@ -101,18 +50,71 @@ Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count196
-\Gm@cntv=\count197
-\c@Gm@tempcnt=\count198
-\Gm@bindingoffset=\dimen142
-\Gm@wd@mp=\dimen143
-\Gm@odd@mp=\dimen144
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks19
+
+
+/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty:1006: Packag
+e geometry Error: \paperwidth (0.0pt) too short.
+
+See the geometry package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1006 \Gm@process
+                  
+? 
+
+/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty:1006: Packag
+e geometry Error: \paperheight (0.0pt) too short.
+
+See the geometry package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1006 \Gm@process
+                  
+? 
+/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty:1006: Emerge
+ncy stop.
+ ...                                              
+                                                  
+l.1006 \Gm@process
+                  
+Set a paper type (e.g., `a4paper').
+
+ 
+Here is how much of TeX's memory you used:
+ 1791 strings out of 478268
+ 30594 string characters out of 5846347
+ 336541 words of memory out of 5000000
+ 20056 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,0n,62p,166b,22s stack positions out of 10000i,1000n,20000p,200000b,200000s
+/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty:1006:  ==> F
+atal error occurred, no output PDF file produced!
+@odd@mp=\dimen144
 \Gm@even@mp=\dimen145
 \Gm@layoutwidth=\dimen146
 \Gm@layoutheight=\dimen147
@@ -343,97 +345,67 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
 LaTeX Font Info:    ... okay on input line 61.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
 LaTeX Font Info:    ... okay on input line 61.
-Package lastpage Info: Please have a look at the pageslts package at
-(lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 61.
+Package lastpage Info: Pleasre is no 5 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no A in font nullfont!
+./VikasPDGawai CV.tex:51: Undefined control sequence.
+l.51 \address
+             {Phone: 608-628-8674 \\ \email{gawai@wisc.edu} \\ \url{https://...
 
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: <default>
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(41.19443pt, 531.90614pt, 41.19443pt)
-* v-part:(T,H,B)=(21.68121pt, 751.60756pt, 21.68121pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=531.90614pt
-* \textheight=751.60756pt
-* \oddsidemargin=-31.07556pt
-* \evensidemargin=-31.07556pt
-* \topmargin=-87.58878pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=11.0pt
-* \footskip=30.0pt
-* \marginparwidth=59.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-Package hyperref Info: Link coloring OFF on input line 61.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count286
-)
-LaTeX Info: Redefining \ref on input line 61.
-LaTeX Info: Redefining \pageref on input line 61.
-LaTeX Info: Redefining \nameref on input line 61.
- (./VikasPDGawai CV.out) (./VikasPDGawai CV.out)
-\@outlinefile=\write4
-\openout4 = `"VikasPDGawai CV.out"'.
-
-
-Overfull \hbox (30.0pt too wide) in paragraph at lines 61--61
-[] 
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 61.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 61.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 61.
-
-./VikasPDGawai CV.tex:115: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.115 \textbf
-             {Abstract-}
 ? 
-[1
+Missing character: There is no P in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+./VikasPDGawai CV.tex:51: Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.51 ...ne: 608-628-8674 \\ \email{gawai@wisc.edu}
+                                                   \\ \url{https://vikasgawa...
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] 
-AED: lastpage setting LastPage
-[3]
+? 
+./VikasPDGawai CV.tex:51: Emergency stop.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.51 ...ne: 608-628-8674 \\ \email{gawai@wisc.edu}
+                                                   \\ \url{https://vikasgawa...
+End of file on the terminal!
 
-./VikasPDGawai CV.tex:396: LaTeX Error: \begin{list} on input line 338 ended by
- \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
+ 
+Here is how much of TeX's memory you used:
+ 8293 strings out of 478268
+ 132129 string characters out of 5846347
+ 438365 words of memory out of 5000000
+ 26468 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,0n,64p,225b,74s stack positions out of 10000i,1000n,20000p,200000b,200000s
+./VikasPDGawai CV.tex:51:  ==> Fatal error occurred, no output PDF file produce
+d!
+te help.
  ...                                              
                                                   
 l.396 \end{document}
@@ -469,7 +441,7 @@ mti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ti8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
 10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095
 .pfb>
-Output written on "VikasPDGawai CV.pdf" (3 pages, 153123 bytes).
+Output written on "VikasPDGawai CV.pdf" (3 pages, 152563 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
