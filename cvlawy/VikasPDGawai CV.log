@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.5)  16 FEB 2025 10:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.5)  11 FEB 2025 22:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -412,46 +412,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 61.
-
-Overfull \hbox (3.09976pt too wide) in paragraph at lines 124--135
-\OT1/cmr/m/n/10.95 De-posit Data, \OT1/cmr/m/it/10.95 with Valentina Duque, Ja-
-son Fletcher, Hamid Noghanibeham-bari, Lau-ren Schmitz\OT1/cmr/m/n/10.95 - \OT1
-/cmr/bx/n/10.95 (\OT1/cmr/bx/it/10.95 Jour-
- []
-
-
-Overfull \hbox (17.41602pt too wide) in paragraph at lines 137--149
-\OT1/cmr/m/it/10.95 Jeremy Foltz \OT1/cmr/bx/n/10.95 (Con-di-tion-ally Ac-cepte
-d at \OT1/cmr/bx/it/10.95 Amer-i-can Jour-nal of Agri-cul-tural Eco-nomics (AJA
-E),
- []
-
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 291--295
+Underfull \hbox (badness 10000) in paragraph at lines 267--270
 
  []
 
 [2]
-Overfull \vbox (9.64267pt too high) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+
+ []
 
 
-Overfull \vbox (9.64267pt too high) has occurred while \output is active []
-
-
-[3] 
 AED: lastpage setting LastPage
-[4]
+[3]
 
-./VikasPDGawai CV.tex:415: LaTeX Error: \begin{list} on input line 361 ended by
+./VikasPDGawai CV.tex:391: LaTeX Error: \begin{list} on input line 333 ended by
  \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.415 \end{document}
+l.391 \end{document}
                     
 ? 
 (./VikasPDGawai CV.aux)
@@ -460,23 +444,23 @@ Package rerunfilecheck Info: File `"VikasPDGawai CV".out' has not changed.
  )
 (\end occurred inside a group at level 8)
 
-### semi simple group (level 8) entered at line 361 (\begingroup)
-### semi simple group (level 7) entered at line 361 (\begingroup)
-### semi simple group (level 6) entered at line 283 (\begingroup)
-### semi simple group (level 5) entered at line 283 (\begingroup)
-### semi simple group (level 4) entered at line 166 (\begingroup)
-### semi simple group (level 3) entered at line 166 (\begingroup)
-### semi simple group (level 2) entered at line 120 (\begingroup)
-### semi simple group (level 1) entered at line 120 (\begingroup)
+### semi simple group (level 8) entered at line 333 (\begingroup)
+### semi simple group (level 7) entered at line 333 (\begingroup)
+### semi simple group (level 6) entered at line 259 (\begingroup)
+### semi simple group (level 5) entered at line 259 (\begingroup)
+### semi simple group (level 4) entered at line 115 (\begingroup)
+### semi simple group (level 3) entered at line 115 (\begingroup)
+### semi simple group (level 2) entered at line 64 (\begingroup)
+### semi simple group (level 1) entered at line 64 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 9642 strings out of 478268
- 155019 string characters out of 5846347
+ 9641 strings out of 478268
+ 155013 string characters out of 5846347
  484828 words of memory out of 5000000
  27750 multiletter control sequences out of 15000+600000
  475144 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,11n,76p,589b,665s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,11n,76p,589b,590s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm
 -super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
@@ -488,10 +472,10 @@ mti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ti8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
 10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095
 .pfb>
-Output written on "VikasPDGawai CV.pdf" (4 pages, 152044 bytes).
+Output written on "VikasPDGawai CV.pdf" (3 pages, 150499 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
+ 80 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
