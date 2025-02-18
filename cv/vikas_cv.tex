@@ -1,0 +1,362 @@
+\documentclass[10pt]{article}
+\usepackage{calc}
+\reversemarginpar
+\usepackage{multicol}
+\usepackage[empty]{fullpage}
+\usepackage[paper=letterpaper,
+            marginparwidth=1.2in,     % Length of section titles
+            marginparsep=.05in,       % Space between titles and text
+            margin=1in,               % 1 inch margins
+            includemp]{geometry}
+						
+\setlength{\parindent}{0in}
+\usepackage{paralist}
+\usepackage{enumitem}
+\usepackage{etaremune}
+\setlist{nolistsep}
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\fancyhf{}\renewcommand{\headrulewidth}{0pt}
+%\fancyoffset{\marginparsep+\marginparwidth}
+\newlength{\footpageshift}
+\setlength{\footpageshift}{0.5\textwidth+0.5\marginparsep+0.5\marginparwidth-2in}
+%\setlength{\footpageshift}{\textwidth+\marginparsep+\marginparwidth}
+\lfoot{\hspace{\footpageshift}      
+\parbox{4in}{\, \hfill \arabic{page} of \protect\pageref*{LastPage} \hfill \,}}
+\usepackage{color,hyperref}
+\definecolor{gray}{rgb}{0.459,0.438,0.471}
+\definecolor{spot}{rgb}{0.6,0,0}
+\hypersetup{pdfnewwindow,colorlinks,breaklinks,linkcolor=blue,urlcolor=blue,anchorcolor=spot,citecolor=spot}
+
+
+
+\newcommand{\makeheading}[2][]%
+        {\hspace*{-\marginparsep minus \marginparwidth}%
+         \begin{minipage}[t]{\textwidth+\marginparwidth+\marginparsep}%
+             {\large \bfseries #2 \hfill #1}\\[-0.15\baselineskip]%
+                 \rule{\columnwidth}{1pt}%
+         \end{minipage}}
+
+\renewcommand{\section}[2]%
+        {\pagebreak[3]\vspace{1.3\baselineskip}%
+         \phantomsection\addcontentsline{toc}{section}{#1}%
+         \hspace{0in}%
+         \marginpar{
+         \raggedright \scshape #1}#2}
+\newcommand{\blankline}{\quad\pagebreak[3]}
+\newcommand{\halfblankline}{\quad\vspace{-0.5\baselineskip}\pagebreak[3]}
+
+%\providecommand*\url[1]{\texttt{\href{#1}{#1}}}
+%\renewcommand*\url[1]{\href{#1}{\texttt{#1}}}
+%\providecommand*\email[1]{\texttt{\href{mailto:#1}{#1}}}
+%\providecommand\BibTeX{{B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+%    \TeX}} 
+    
+\renewcommand{\labelitemi}{$-$}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+    
+%\makeatletter
+%\newcommand\footnoteref[1]{\protected@xdef\@thefnmark{\ref{#1}}\@footnotemark}
+%\makeatother
+		
+\begin{document}
+
+
+\hspace*{-\marginparsep minus \marginparwidth}%
+
+\makeheading{Vikas PD Gawai}
+
+\section{Contact Information}
+Phone: 608-628-8674 \\
+Email:  \href{mailto: vikas.vjti87@gmail.com} {vikas.vjti87@gmail.com} \\ \href{https://vikasgawai.github.io/home/} {Website}, \href{https://scholar.google.com/citations?user=bGRBndAAAAAJ&hl=en&oi=ao}{Google Scholar} \\	
+\halfblankline
+
+\section{Employment}
+\href{https://www.cdc.gov/pef/php/about/index.html}{Prevention Effectiveness (PE) Fellow}
+ 
+\quad Centers for Disease Control and Prevention (CDC)   \hfill 2024-
+ 
+
+
+\section{Education}
+University of Wisconsin-Madison
+
+\quad PhD, Agriculture and Applied Economics \hfill 2018-24
+
+% \quad Relevant Coursework: Statistical Methods, Statistical Inference, Research Design, Applied Econometrics, Qualitative Research 
+
+%\quad Sub-Fields: Health Economics
+
+\quad \quad Dissertation: \href{https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bGRBndAAAAAJ&citation_for_view=bGRBndAAAAAJ:0EnyYjriUFMC}{``Technology in the Aging World: The Role of Broadband and Green Revolution''}
+
+% \quad \quad Data: Over 20 million case records from Indian Courts
+
+
+% \quad \quad Committee: Rikhil Bhavnani (chair), Yoshiko Herrera, Adeline Lo, 
+
+% \quad \quad \quad \quad \quad \quad \quad Sameer Deshpande
+
+\halfblankline
+
+\quad MS, Economics  \hfill 2016-18
+
+% \quad Relevant Coursework: Causal Inference, Machine Learning, Statistical Consulting, Mathematical Statistics, Bayesian Statistics, Advanced Data Science
+
+% \quad \quad Advisor: Sameer Deshpande
+
+\halfblankline
+
+Mumbai University
+
+\quad B.Tech, Civil Engineering \hfill 2004-08
+
+% \quad \quad Advisor: Sudheendra Hangal
+
+%\section{Peer-Reviewed Book}\vspace{-4mm} \begin{etaremune}[topsep=0pt,leftmargin=5mm] 
+
+%\item Redjaboev, Khasan. 2027. \href[pdfnewwindow=true]{https://www.cambridge.org/us/academic/subjects/politics-international-relations/political-economy/nativism-and-economic-integration-across-developing-world-collision-and-accommodation?format=PB}{\textit{Communist Colonialism and Development: Forced Labor and the Making of Soviet Legacy}}. Cambridge University Press, \textit{Cambridge Elements: Political Economy} series, ed. Rikhil R. Bhavnani. \end{etaremune}
+
+%\section{Peer-Reviewed Articles} \vspace{-4mm} \begin{etaremune}[topsep=0pt,leftmargin=5mm] 
+
+%\item Bhavnani, Rikhil R., and Alexander Lee. 2021. \href[pdfnewwindow=true]{https://rbhavnani.github.io/files/BhavnaniLeeAJPS.pdf}{``Does Affirmative Action Worsen Bureaucratic Performance? Evidence from the Indian Administrative Service.''} \textit{American Journal of Political Science} 65(1): 5--20. 
+
+%\end{etaremune}
+
+\section{Research Interests} \vspace{-4mm} 
+
+Health, Aging, Social Security, Public Policy, Human Capital, Caste (Race), Gender, Agriculture, Broadband
+
+\section{Publications} \vspace{-4mm} \begin{etaremune}[topsep=0pt,leftmargin=5mm] 
+
+\item \textbf{Vikas Gawai} and Steven Deller, 2024. \href{https://onlinelibrary.wiley.com/doi/full/10.1111/ajes.12608}{``Is there a link between access to broadband and health outcomes?"} \textit{American Journal of Economics and Sociology}
+
+\item Hamid Noghanibehambari, Jason Fletcher, Lauren Schmitz, Valentina Duque and \textbf{Vikas Gawai}, 2024. \href{https://link.springer.com/article/10.1007/s00148-024-01007-w}{``Early-Life Economic Conditions and Old-Age Mortality: Evidence from Historical County-Level Bank Deposit Data''} \textit{Journal of Population Economics}
+
+\item Jeremy Foltz and \textbf{Vikas Gawai}, 2024. \href{https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bGRBndAAAAAJ&citation_for_view=bGRBndAAAAAJ:IjCSPb-OGe4C}{``Discrimination in Science: Salaries of Foreign and US Born Land-Grant University Scientists''} \textit{American Journal of Agricultural Economics} (Conditionally Accepted)
+
+
+
+\end{etaremune}
+
+\section{Working Papers} \vspace{-4mm} \begin{etaremune}[topsep=0pt,leftmargin=5mm] 
+
+\item \textbf{Vikas Gawai}. \href{https://vikasgawai.github.io/home/papers/draft_broadband_aging.pdf}{``Does High-Speed Internet (Broadband) Technology Affect the Mental Health of Older Adults?''}
+
+\item \textbf{Vikas Gawai}, Lauren Schmitz, Valentina Duque, Jinkook Lee, Hunter Green. \href{https://vikasgawai.github.io/home/papers/Green_revolution_draft_paper.pdf}{``Effect of Early Life Exposure to the Green Revolution on Aging Outcomes in India''}
+
+\item \textbf{Vikas Gawai}. ``Does Broadband Technology Affect Social Security Applications?''
+
+\item \textbf{Vikas Gawai}. ``Spillover Effects of a Bicycle Policy on Girls’ Enrollment in Middle Schools''
+
+\end{etaremune}
+
+\section{Research at CDC} \vspace{-4mm} \begin{etaremune}[topsep=0pt,leftmargin=5mm] 
+
+\item \textbf{Vikas Gawai}, Sergey Sotnikov and Nancy Habarta. ``Effect of Preventive Health and Health Services (PHHS) Block Grant on the Performance of the State Public Health Departments''
+
+\item \textbf{Vikas Gawai}, Sergey Sotnikov and Nancy Habarta. ``Systematic Review of the Literature on the Effects of Public Infrastructure Investments and Health
+Outcomes''
+
+\end{etaremune}
+
+\section{Work in Progress}\vspace{-4mm} \begin{etaremune}[topsep=0pt,leftmargin=5mm] 
+
+\item Kanika Arora, \textbf{Vikas Gawai}, Shubhashrita Basu and Lauren Schmitz. ``Spatially Varying Gender and Caste Inequalities in Cognition and the Contribution of Individual and State-level Characteristics Across India ''
+
+\item \textbf{Vikas Gawai}. ``Effects of Teacher Hiring Policy on Students’ Learning in Rural India: A Multi-Cutoff Regression Discontinuity Design Approach''
+
+\item \textbf{Vikas Gawai}, Lauren Schmitz and Valentina Duque. ``Effect of Green Revolution on the Intergenerational Human Capital''
+
+\end{etaremune}
+
+\section{Research Assistance}
+Prof. Lauren Schmitz (UW Madison, School of Public Affairs) \hfill 2020-24 \\
+Prof. Jeremy Foltz (UW Madison, Agriculture and Applied Economics) \hfill 2018-20 \\
+Prof. Andra Ghent (UW Madison, Wisconsin School of Business) \hfill 2018 (Summer)
+
+\section{Teaching}
+\textit{Guest Lecturer at UW-Madison}
+
+World Hunger and Malnutrition \hfill 2024
+
+Agricultural \& Economic Development of Africa (Health) \hfill 2022
+
+Gender Gap and Economics Development in Developing Countries \hfill 2022-23
+
+The Economics of Race and Gender (Bentley University) \hfill 2022
+
+Research Supervision Undergraduate Research Scholars (2 students) \hfill 2022
+
+\halfblankline
+
+
+\section{Media Highlights} 
+\href{https://grow.cals.wisc.edu/departments/features/the-road-to-rural-broadband}{Internet and Mental Health}, GROW Magazine Cover Story \\ 
+\href{https://www.iheart.com/podcast/338-the-financial-findings-pod-108705799/episode/episode-8-interview-with-dr-vikas-189429607/}{Broadband and Social Security Applications}, The Financial Findings Podcast
+
+\section{Technical Skills}
+STATA, \LaTeX, \textsf{R}, Python
+
+
+
+\section{Fellowships and Awards}
+Diversity Fellow, School of Public Affairs, American University \hfill 2023-24
+
+Research Fellow, Retirement and Disability Research Center (RDRC)  \hfill 2022-24
+
+DEI- Diversity Scholarship, American Society of Health Economics (ASHEcon) \hfill 2021
+
+Best Research Scholarship (Honorable mention), UW-Madison Department of Economics  \hfill 2018
+
+\section{Grants}
+Center for Demography of Health and Aging Research Travel Award (\$2,000) \hfill 2023
+
+RDRC - Junior Scholar Research Competition Award (\$5,000) \hfill 2022
+
+
+
+Research Travel Award UW-Madison (\$1,100) \hfill 2022
+
+
+
+Deborah and David Penn Fund  (\$1,500) \hfill 2022-23
+
+
+
+UW-Madison Graduate School  Award (\$4,000) \hfill 2022-23
+
+
+
+UW-Madison Center for Demography and Ecology (\$950) \hfill 2022
+
+
+
+UW-Madison- Traisman Agribusiness Graduate Fellowship (\$750) \hfill 2021
+
+
+
+UW-Madison Student Research Grants Competition (\$1,500) \hfill 2020
+
+
+
+UW-Madison IRIS Graduate Student Summer Fieldwork Award (\$3,000)  \hfill 2019
+
+
+
+Indian State Government Scholarship for MS Economics (\$100,000) \hfill 2016-18
+
+\section{Service}
+\textit{Referee/Reviewer}
+
+Agriculture and Applied Economics Association (AAEA)  \hfill 2022-24
+
+Association for Public Policy Analysis \& Management \hfill 2023
+
+Economics of Education Review, Reviewer \hfill 2022-23
+
+American Society for Health Economists (AshEcon)  \hfill 2022
+
+AAEA-Health Economics Section Official Twitter Manager \hfill 2022-23
+
+\halfblankline
+
+\textit{Department}
+
+UW-Madison, AAE, Faculty Hiring Committee, \hfill 2022
+
+UW-Madison, AAE, Ph.D. Admission Committee  \hfill 2021
+
+Taylor-Hibbard Club, Athletic Chair \hfill 2020-2022
+
+UW-Madison AAE, Development Lab Group \hfill 2019
+
+
+%\section{Invited Talks}
+%Harvard--Brown--MIT South Asia Seminar \hfill 2020
+\section{Leadership and Mentoring} 
+CDC Preventive Effectiveness Fellowship Hiring Committee \hfill 2025
+
+UW-Madison CDHA Research Mentor for 18 students  \hfill 2022
+
+Mentor, First generation undergraduate students \hfill 2022
+
+
+\section{Conferences} 
+ASHEcon \hfill 2024
+
+Social Security Administration (SSA) Annual Meeting \hfill 2024
+
+Data-Intensive Research Conference, University of Minnesota \hfill 2024
+
+Midwest Economics Association \hfill 2023
+
+Southern Economics Association \hfill 2023
+
+Agricultural and Applied Economics Association \hfill 2022
+
+Association for Public Policy Analysis \& Management \hfill 2022-24
+
+Population Association of America \hfill 2022
+
+American Education Finance and Policy Conference  \hfill 2020
+%Society for Institutional and Organizational Economics meetings \hfill 2011, 2013, 2021
+
+%American Political Science Association meetings \hfill 2009--11, 2013--21
+
+%European Political Science Association meeting \hfill 2016--18
+
+%Public Management Research Conference \hfill 2017
+
+%International Political Economy Society meetings \hfill 2010--11, 2014, 2016--17
+
+%Annual World Bank Conference on Development Economics \hfill 2012, 2016
+
+
+\section{References}
+\begin{multicols}{2}
+\textbf{Jeremy Foltz (advisor)}\\
+Agriculture and Applied Economics\\
+University of Wisconsin-Madison\\
+\href{mailto:jdfoltz@wisc.edu.edu}{jdfoltz\textrm{@}wisc.edu}
+
+\vfill\columnbreak
+
+\textbf{Lauren Schmitz}\\
+La Follette School of Public Affairs\\
+University of Wisconsin-Madison\\
+\href{mailto:llschmitz@wisc.edu}{llschmitz\textrm{@}wisc.edu}
+
+ \end{multicols}
+
+\begin{multicols}{2}
+
+\textbf{John Mullahy}\\
+Population Health Sciences\\
+University of Wisconsin-Madison\\
+\href{mailto:jmullahy@wisc.edu}{jmullahy\textrm{@}wisc.edu}
+ 
+ \vfill\columnbreak
+    
+\textbf{Valentina Duque}\\
+Department of Public Administration and Policy\\
+American University\\
+\href{mailto:vduque@american.edu}{vduque\textrm{@}american.edu}
+
+ \end{multicols}
+
+\begin{multicols}{2}
+ \vfill\columnbreak
+
+\textbf{Priya Mukherjee}\\
+Agricultural and Applied Economics\\
+University of Wisconsin-Madison\\
+\href{mailto:priya.mukherjee@wisc.edu}{priya.mukherjee\textrm{@}wisc.edu}
+%\vfill\columnbreak
+
+\end{multicols}
+
+\section{\scriptsize(Updated \today)}
+
+\end{document}
+
