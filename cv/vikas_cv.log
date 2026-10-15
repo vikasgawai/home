@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.5)  15 OCT 2026 09:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.5)  15 OCT 2026 10:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -437,22 +437,18 @@ File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 71.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 71.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 71.
 
-
-Package hyperref Warning: Suppressing link with empty target on input line 73.
-
-
-Overfull \hbox (13.72563pt too wide) in paragraph at lines 79--80
-[]\OT1/cmr/m/n/12 Hamid Noghanibeham-bari, Ja-son Fletcher, Lau-ren Schmitz, Va
-lentina Duque,
+Overfull \hbox (4.66441pt too wide) in paragraph at lines 58--60
+| \OT1/cmr/m/it/12 Com-mit-tee: \OT1/cmr/m/n/12 Jeremy Foltz, Lau-ren Schmitz, 
+John Mul-lahy, Ja-son Fletcher,
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 63.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 63.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 63.
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.35004pt, for example:
@@ -463,10 +459,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 131.
+(hyperref)                removing `\\' on input line 80.
 
 
-Overfull \hbox (1.58699pt too wide) in paragraph at lines 131--145
+Overfull \hbox (1.58699pt too wide) in paragraph at lines 80--94
 \OT1/cmr/m/n/12 Research Fel-low, Re-tire-ment and Dis-abil-ity Re-search Cen-t
 er (RDRC)  2022--
  []
@@ -479,11 +475,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 147.
+(hyperref)                removing `\\' on input line 96.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 161.
+(hyperref)                removing `\\' on input line 110.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -498,23 +494,17 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
 [4] (./vikas_cv.aux)
-
-Package rerunfilecheck Warning: File `vikas_cv.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `vikas_cv.out':
-(rerunfilecheck)             Before: 93BB5220A82202461DF7D4095FA81620;2099
-(rerunfilecheck)             After:  423EF2C3F78CDD99CC986B003F18C41A;2099.
+Package rerunfilecheck Info: File `vikas_cv.out' has not changed.
+(rerunfilecheck)             Checksum: 53A5A2EE73B33FD94BD33A774FD19505;2008.
  ) 
 Here is how much of TeX's memory you used:
- 9587 strings out of 478268
- 152890 string characters out of 5846347
- 466272 words of memory out of 5000000
- 27669 multiletter control sequences out of 15000+600000
+ 9602 strings out of 478268
+ 153038 string characters out of 5846347
+ 467272 words of memory out of 5000000
+ 27670 multiletter control sequences out of 15000+600000
  474500 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,13n,63p,388b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,14n,63p,1505b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -524,10 +514,10 @@ usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
 local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
 ocal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/lo
 cal/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on vikas_cv.pdf (4 pages, 111395 bytes).
+Output written on vikas_cv.pdf (4 pages, 115380 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 125 compressed objects within 2 object streams
- 19 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 161 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
